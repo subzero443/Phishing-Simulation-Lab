@@ -2,29 +2,38 @@
 
 A local-first cybersecurity awareness dashboard built with React, TypeScript, Vite, and Tailwind CSS. It includes synthetic campaign data, safe message templates, campaign analytics, an awareness-training preview, and client-side email-header and URL analyzers.
 
+# Screenshots
+<img src="Screenshot 2026-10-05 015018.png">
+<img src="Screenshot 2026-10-05 014808.png">
+<img src="Screenshot 2026-10-05 014833.png">
+<img src="Screenshot 2026-10-05 231740.png">
+<img src="Screenshot 2026-10-05 015221.png">
+
 ## Requirements
 
 - Node.js 20.19+ or 22.12+
 - npm (included with Node.js)
-- Git, if you are cloning the repository
-
-## Install and Run
+- Git, if you are cloning the repository.
 
 1. Open a terminal in the project folder or In Windows Powershell running as An Administrator
 
 Type the First command:
-
+```bash
 cd "C:\Users\INVESTOR\Desktop\Phishing Simulation Lab"
+````
 Replace INVESTORR with your PC User Name
 
 2. Install the dependencies:
+```bash
   npm install
-
+```
 3. Start the development server:
+ ```bash
   npm run dev
+```
 
 
-4. Open the local URL printed in the terminal. By default, Vite uses `http://localhost:5173/`.
+5. Open the local URL printed in the terminal. By default, Vite uses `http://localhost:5173/`.
 
 Press `Ctrl+C` in the terminal to stop the server.
 
