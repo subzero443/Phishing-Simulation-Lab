@@ -32,7 +32,7 @@ Replace INVESTORR with your PC User Name
 ```
 
 
-5. Open the local URL printed in the terminal. By default, Vite uses `http://localhost:5173/`.
+4. Open the local URL printed in the terminal. By default, Vite uses `http://localhost:5173/`.
 
 Press `Ctrl+C` in the terminal to stop the server.
 
