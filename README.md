@@ -6,7 +6,6 @@ A local-first cybersecurity awareness dashboard built with React, TypeScript, Vi
 <img src="Screenshot 2026-10-05 015018.png">
 <img src="Screenshot 2026-10-05 014808.png">
 <img src="Screenshot 2026-10-05 014833.png">
-<img src="Screenshot 2026-10-05 231740.png">
 <img src="Screenshot 2026-10-05 015221.png">
 
 ## Requirements
